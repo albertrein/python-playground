@@ -1,4 +1,4 @@
-# :snake: Playground to train my skiils with Python. :snake:
+# :snake: Playground to train my skills with Python. :snake:
 
 ## My Learning Anotations :memo:
 
